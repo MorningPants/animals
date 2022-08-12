@@ -1,26 +1,26 @@
 [  
    {
-    "name":"Mosquito"
+    "name":"Mosquito",
     "weight":"1"
    },
    {
-    "name":"Beetle"
+    "name":"Beetle",
     "weight":"2"
    },
    {
-    "name":"Salamander"
+    "name":"Salamander",
     "weight":"3"
    },
    {
-    "name":"Frog"
+    "name":"Frog",
     "weight":"4"
    },
    {
-    "name":"Bird"
+    "name":"Bird",
     "weight":"5"
    },
    {
-     "name":"Rat"
+     "name":"Rat",
     "weight":"6"
     }
 ]
