@@ -1,8 +1,26 @@
-[
+[  
+   {
+    "name":"Mosquito"
+    "weight":"1"
+   },
+   {
+    "name":"Beetle"
+    "weight":"2"
+   },
+   {
+    "name":"Salamander"
+    "weight":"3"
+   },
+   {
+    "name":"Frog"
+    "weight":"4"
+   },
    {
     "name":"Bird"
+    "weight":"5"
    },
    {
      "name":"Rat"
+    "weight":"6"
     }
 ]
