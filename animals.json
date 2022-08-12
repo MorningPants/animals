@@ -7,12 +7,12 @@
    {
     "name":"Beetle",
     "weight":"2",
-    "families":['insect']
+    "families":["insect"]
    },
    {
     "name":"Salamander",
     "weight":"3",
-    "families":['amphibian']
+    "families":["amphibian"]
    },
    {
     "name":"Frog",
