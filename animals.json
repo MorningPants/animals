@@ -2,7 +2,7 @@
    {
     "name":"Mosquito",
     "weight":"1",
-    "families":['insect']
+    "families":["insect"]
    },
    {
     "name":"Beetle",
@@ -17,36 +17,36 @@
    {
     "name":"Frog",
     "weight":"4",
-    "families":['amphibian']
+    "families":["amphibian"]
    },
    {
     "name":"Bird",
     "weight":"5",
-    "families":['bird']
+    "families":["bird"]
    },
    {
      "name":"Rat",
     "weight":"6",
-    "families":['mammal']
+    "families":["mammal"]
     },
    {
     "name":"Raven",
     "weight":"7",
-    "families":['bird']
+    "families":["bird"]
    },
    {
     "name":"Turtle",
     "weight":"8",
-    "families":['reptile']
+    "families":["reptile"]
    },
    {
     "name":"Cat",
     "weight":"9",
-    "families":['mammal']
+    "families":["mammal"]
    },
    {
     "name":"Dog",
     "weight":"10",
-    "families":['mammal']
+    "families":["mammal"]
    }
 ]
